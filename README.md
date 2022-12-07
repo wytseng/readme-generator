@@ -14,7 +14,7 @@ This application is a command line application that can generate a professional 
 
 * [License](#license) 
 
-* [Contributing](#contributing) 
+* [Contribution](#contribution) 
 
 * [Tests](#tests) 
 
@@ -44,7 +44,7 @@ For a more detailed walkthrough, refer to this video: https://drive.google.com/f
 
 N/A 
 
-## Contributing 
+## Contribution
 
 If you would like to contribute to this application, please reach out to the owner via email first. You can find the owner's email listed under the 'Questions' section below.  
 

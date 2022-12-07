@@ -57,7 +57,7 @@ ${data.description} \n
 * [Installation](#installation) \n
 * [Usage](#Usage) \n
 * [License](#license) \n
-* [Contributing](#contributing) \n
+* [Contribution](#contribution) \n
 * [Tests](#tests) \n
 * [Questions](#questions) \n
 ## Installation \n
@@ -69,7 +69,7 @@ ${data.installation}
 ${data.usage} \n
 ## License \n
 ${renderLicenseSection(data.license)} \n
-## Contributing \n
+## Contribution \n
 ${data.contribution} \n
 ## Tests \n
 To run test, run the followng command: \n
